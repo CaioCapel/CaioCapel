@@ -10,7 +10,7 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-<div style="display: flex" >
+<div style="display: inline-flex" >
 
 ![CaioCapel GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCapel&show_icons=true&theme=radical)
 
