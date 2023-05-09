@@ -23,5 +23,5 @@
           
 ### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
- <a href= "caiordm1227@gmail.com"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
