@@ -3,7 +3,7 @@
 #### Trabalho atualmente com suporte de TI
 #### Ensino Superior (Estácio de Sá) - Análise e desenvolvimento de sistemas 
 #### Curso Técnico (Senai) - Análise e desenvolvimento de sistemas
-<br><br>
+<br>
 <div>
 
 ![CaioCapel GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCapel&show_icons=true&theme=radical)
