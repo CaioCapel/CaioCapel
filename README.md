@@ -8,8 +8,7 @@
 
 ![CaioCapel GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCapel&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCapel&layout=compactshow_icons=true&theme=radical )](https://github.com/ka1quegs/github-readme-stats)
-</div>
+
 
 ## Tecnologias que uso no meu Dia a Dia   
 <div style="display: inline_block"><br>
