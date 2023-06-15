@@ -8,8 +8,13 @@
 
 ![CaioCapel GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCapel&show_icons=true&theme=radical)
 
-![Top languages](https://img.shields.io/github/languages/top/CaioCapel/CaioCapel)
+<div align="center">
+  <a href="https://github.com/medina157">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioCapel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCapel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaioCapel&hide_border=)](https://git.io/streak-stats)
 
 
 ## Tecnologias que uso no meu Dia a Dia   
