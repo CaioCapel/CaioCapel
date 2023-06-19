@@ -8,7 +8,7 @@
 
 ![CaioCapel GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCapel&show_icons=true&theme=radical)
 
-<div align="center">
+<div>
   <a href="https://github.com/CaioCapel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCapel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
