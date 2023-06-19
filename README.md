@@ -5,10 +5,12 @@
 #### Curso Técnico (Senai) - Análise e desenvolvimento de sistemas
 <br>
 <div>
+  
 <div align="center">
+  
 ![CaioCapel GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioCapel&show_icons=true&theme=radical)
   <a href="https://github.com/CaioCapel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCapel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCapel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tecnologias que uso no meu Dia a Dia   
