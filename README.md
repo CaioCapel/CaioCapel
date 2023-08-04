@@ -1,6 +1,6 @@
 # Olá! Eu sou o Caio Capel 🖐️
 
-#### Trabalho atualmente com suporte de TI
+#### Trabalho atualmente estagiando como suporte de TI
 #### Ensino Superior (Estácio de Sá) - Análise e desenvolvimento de sistemas 
 #### Curso Técnico (Senai) - Análise e desenvolvimento de sistemas
 <br>
